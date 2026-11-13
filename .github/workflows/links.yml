@@ -26,9 +26,12 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v7
+      # Some vendor sites answer 403 (bot protection) or 429 to CI runners while the page is fine
+      # in a browser, so those count as working. A dead link is a 404, a 410 or a failed connection.
       - uses: lycheeverse/lychee-action@v2
         with:
           args: >-
             --no-progress --include-fragments --max-retries 3 --retry-wait-time 5 --timeout 30
+            --accept '100..=103,200..=299,403,429'
             'README.md' 'inactive.md' 'CONTRIBUTING.md'
           jobSummary: true
