@@ -91,7 +91,7 @@ Software as a service: the vendor runs it for you.
 - [Plain](https://www.plain.com/) - AI support platform for B2B teams that can be configured with no code or with code.
 - [Pylon](https://www.usepylon.com/) - B2B support platform where people and AI agents work on customer issues together.
 - [Re:amaze](https://www.reamaze.com/) - Customer service and AI agent platform for online businesses, with chat, social, SMS, FAQ and email.
-- [Replyze](https://replyze.chat/?utm_source=github&utm_medium=awesome-live-chat) - AI agent that answers from your knowledge base, a website chat widget, and one shared inbox for web chat, email, WhatsApp and Telegram.
+- [Replyze](https://replyze.chat/?utm_source=github&utm_medium=referral&utm_campaign=awesome-live-chat) - AI agent that answers from your knowledge base, a website chat widget, and one shared inbox for web chat, email, WhatsApp and Telegram.
 - [Respond.io](https://respond.io/) - Conversation platform that brings WhatsApp, TikTok, Instagram and Facebook into a team inbox with AI agents.
 - [Smartsupp](https://www.smartsupp.com/) - Live chat, chatbots and AI tools for online stores.
 - [tawk.to](https://www.tawk.to/) - Free live chat with ticketing, a knowledge base and a CRM in one inbox for customer channels.
@@ -116,7 +116,7 @@ AI agents that answer customers, and tools to build them.
 - [Gorgias AI Agent](https://www.gorgias.com/ai-agent) - AI agent for ecommerce support and sales, built on Gorgias.
 - [HubSpot AI Customer Agent](https://www.hubspot.com/products/artificial-intelligence/ai-customer-service-agent) - AI agent in HubSpot that handles routine questions and hands off to your team with context.
 - [Lyro](https://www.tidio.com/ai-agent/) - AI agent from Tidio that answers customer questions from your support content.
-- [Replyze](https://replyze.chat/features?utm_source=github&utm_medium=awesome-live-chat) - AI agent that answers from your own help articles and hands the conversation to your team when needed.
+- [Replyze](https://replyze.chat/features?utm_source=github&utm_medium=referral&utm_campaign=awesome-live-chat) - AI agent that answers from your own help articles and hands the conversation to your team when needed.
 - [Sierra](https://sierra.ai/) - Conversational AI agents that businesses use for customer experience.
 - [Typebot](https://github.com/baptisteArno/typebot.io) - Visual chatbot builder you can self-host, with embeds for websites and WhatsApp, under a Fair Source license.
 - [Voiceflow](https://www.voiceflow.com/) - Platform to build chat and voice AI agents for customer support.
