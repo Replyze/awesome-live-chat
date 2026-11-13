@@ -41,3 +41,4 @@ Vendors are welcome to add or correct their own entry. Please say in the pull re
 - One product per pull request, so each change is easy to review.
 - Use a clear title, for example `Add Example Chat` or `Update Example Chat description`.
 - Check that every link opens and that `npx awesome-lint` passes before you submit.
+- CI runs `awesome-lint` on every pull request and checks the links when a Markdown file changes. The links are also checked every week.
